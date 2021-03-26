@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinForms5withRefit.Views.LoginPage"
+             BackgroundColor="White">
+
+        <Grid RowDefinitions="*,auto,auto,*">
+            <Label x:Name="CounterLabel" Text="Welcome to Xamarin.Forms!"
+                HorizontalOptions="Center"
+                   FontSize="Large"
+                   Grid.Row="1"/>
+        <Button x:Name="CounterBtn" Clicked="CounterBtn_Clicked" Grid.Row="2" Text="Click Me!"/>
+    </Grid>
+
+</ContentPage>
