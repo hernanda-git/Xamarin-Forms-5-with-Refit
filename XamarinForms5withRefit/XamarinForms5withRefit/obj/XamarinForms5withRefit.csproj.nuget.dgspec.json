@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WorkingFolder\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj": {}
+    "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj": {}
   },
   "projects": {
-    "C:\\WorkingFolder\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj": {
+    "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkingFolder\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj",
+        "projectUniqueName": "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj",
         "projectName": "XamarinForms5withRefit",
-        "projectPath": "C:\\WorkingFolder\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj",
+        "projectPath": "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj",
         "packagesPath": "C:\\Users\\Hernanda\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkingFolder\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\obj\\",
+        "outputPath": "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

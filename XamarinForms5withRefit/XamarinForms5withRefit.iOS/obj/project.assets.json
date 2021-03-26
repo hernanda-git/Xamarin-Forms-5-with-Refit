@@ -998,11 +998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WorkingFolder\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.iOS\\XamarinForms5withRefit.iOS.csproj",
+      "projectUniqueName": "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.iOS\\XamarinForms5withRefit.iOS.csproj",
       "projectName": "XamarinForms5withRefit.iOS",
-      "projectPath": "C:\\WorkingFolder\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.iOS\\XamarinForms5withRefit.iOS.csproj",
+      "projectPath": "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.iOS\\XamarinForms5withRefit.iOS.csproj",
       "packagesPath": "C:\\Users\\Hernanda\\.nuget\\packages\\",
-      "outputPath": "C:\\WorkingFolder\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.iOS\\obj\\",
+      "outputPath": "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1026,8 +1026,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\WorkingFolder\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj": {
-              "projectPath": "C:\\WorkingFolder\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj"
+            "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj": {
+              "projectPath": "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj"
             }
           }
         }

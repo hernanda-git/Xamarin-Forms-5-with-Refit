@@ -2149,11 +2149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WorkingFolder\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.Android\\XamarinForms5withRefit.Android.csproj",
+      "projectUniqueName": "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.Android\\XamarinForms5withRefit.Android.csproj",
       "projectName": "XamarinForms5withRefit.Android",
-      "projectPath": "C:\\WorkingFolder\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.Android\\XamarinForms5withRefit.Android.csproj",
+      "projectPath": "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.Android\\XamarinForms5withRefit.Android.csproj",
       "packagesPath": "C:\\Users\\Hernanda\\.nuget\\packages\\",
-      "outputPath": "C:\\WorkingFolder\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.Android\\obj\\",
+      "outputPath": "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2177,8 +2177,8 @@
       "frameworks": {
         "monoandroid10.0": {
           "projectReferences": {
-            "C:\\WorkingFolder\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj": {
-              "projectPath": "C:\\WorkingFolder\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj"
+            "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj": {
+              "projectPath": "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj"
             }
           }
         }

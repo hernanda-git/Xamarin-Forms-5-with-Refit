@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YE6lLzB0RLMjNAxu7zQRQ0DI70nKFTOqASZKro7cEvBabb/B0rStu/VrKAl4aLrkicHNJ8FPoeNViZ0vmiwXqA==",
+  "dgSpecHash": "6Fcn50i9PTwaN7NVqjw6e0Bl8H1GueX4yPD8vVpsHf8abzfLdaZegSuaoh1HJSWc/ojO/fShNlTY5Atz+ei69A==",
   "success": true,
-  "projectFilePath": "C:\\WorkingFolder\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj",
+  "projectFilePath": "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hernanda\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Hernanda\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

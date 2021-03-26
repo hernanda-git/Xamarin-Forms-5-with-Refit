@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i+LRZVP+IzP+O7DW2P/Sx6+CfaMnE+eU+YHR8/yMOfQtvixsafD96kXHQ9+sfrLSFee/dSiC5Sn6z5RwzRmprw==",
+  "dgSpecHash": "2Nie2jrx5yvkAXJfq00wSpHOFHsKMH/fX28xLQT4gjV6ffOVSnM6TJpwCrMEHuKryzoaLHcb5gV6+g+7j16y1w==",
   "success": true,
-  "projectFilePath": "C:\\WorkingFolder\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.Android\\XamarinForms5withRefit.Android.csproj",
+  "projectFilePath": "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.Android\\XamarinForms5withRefit.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hernanda\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Hernanda\\.nuget\\packages\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
