@@ -1,15 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:viewmodels="clr-namespace:XamarinForms5withRefit.ViewModels" 
+             x:DataType="viewmodels:LoginViewModel"
              x:Class="XamarinForms5withRefit.Views.LoginPage"
              BackgroundColor="White">
 
-        <Grid RowDefinitions="*,auto,auto,*">
-            <Label x:Name="CounterLabel" Text="Welcome to Xamarin.Forms!"
+    <ContentPage.BindingContext>
+        <viewmodels:LoginViewModel/>
+    </ContentPage.BindingContext>
+
+    <Grid RowDefinitions="*,auto,auto,*">
+        <Label x:Name="CounterLabel" Text="{Binding CounterLbl}"
                 HorizontalOptions="Center"
                    FontSize="Large"
                    Grid.Row="1"/>
-        <Button x:Name="CounterBtn" Clicked="CounterBtn_Clicked" Grid.Row="2" Text="Click Me!"/>
+        <Button x:Name="CounterBtn" Command="{Binding IncreaseCount}" Grid.Row="2" Text="Click Me!"/>
     </Grid>
 
 </ContentPage>

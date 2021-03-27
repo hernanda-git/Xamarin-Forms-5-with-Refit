@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Windows.Input;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using XamarinForms5withRefit.ViewModels;
 
 namespace XamarinForms5withRefit.Views
 {
@@ -15,15 +17,6 @@ namespace XamarinForms5withRefit.Views
         public LoginPage()
         {
             InitializeComponent();
-            CounterLabel.Text = "Hello!";
-        }
-
-        int counter = 0;
-
-        private void CounterBtn_Clicked(object sender, EventArgs e)
-        {
-            counter++;
-            CounterLabel.Text = $"You clicked button {counter} times.";
         }
     }
 }
