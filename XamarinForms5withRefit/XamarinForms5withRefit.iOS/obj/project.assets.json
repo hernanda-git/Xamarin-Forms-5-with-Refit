@@ -991,18 +991,18 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hernanda\\.nuget\\packages\\": {},
+    "C:\\Users\\Nandito\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.iOS\\XamarinForms5withRefit.iOS.csproj",
+      "projectUniqueName": "F:\\Other\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.iOS\\XamarinForms5withRefit.iOS.csproj",
       "projectName": "XamarinForms5withRefit.iOS",
-      "projectPath": "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.iOS\\XamarinForms5withRefit.iOS.csproj",
-      "packagesPath": "C:\\Users\\Hernanda\\.nuget\\packages\\",
-      "outputPath": "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.iOS\\obj\\",
+      "projectPath": "F:\\Other\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.iOS\\XamarinForms5withRefit.iOS.csproj",
+      "packagesPath": "C:\\Users\\Nandito\\.nuget\\packages\\",
+      "outputPath": "F:\\Other\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1010,7 +1010,7 @@
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Hernanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nandito\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -1020,14 +1020,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://202.78.200.87:9000/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj": {
-              "projectPath": "C:\\WorkingFolder\\Xamarin\\Git\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj"
+            "F:\\Other\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj": {
+              "projectPath": "F:\\Other\\Xamarin\\Xamarin-Forms-5-with-Refit\\XamarinForms5withRefit\\XamarinForms5withRefit\\XamarinForms5withRefit.csproj"
             }
           }
         }
